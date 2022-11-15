@@ -98,7 +98,7 @@ a {
   padding-left: 10px;
 }
 
-img {
+.img {
     border-radius: 50%;
     display: block;
     margin: 0 auto;
@@ -108,6 +108,13 @@ img {
 a{
     color: #a7f3d0;
 }
+
+.image {
+  object-fit: cover;
+}
+
+
+
 
 
 
