@@ -17,8 +17,8 @@ body {
 }
 
 * {
-    line-height: 1.6;
-    list-style: none;
+  line-height: 1.6;
+  list-style: none;
 }
 
 h2,
@@ -37,7 +37,7 @@ a {
 }
 
 .fas {
-    margin-bottom: 1.8rem;
+  margin-bottom: 1.8rem;
 }
 
 .section-1 p {
@@ -99,24 +99,19 @@ a {
 }
 
 .img {
-    border-radius: 50%;
-    display: block;
-    margin: 0 auto;
-    padding: 2.5rem 0;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  padding: 2.5rem 0;
 }
 
-a{
-    color: #a7f3d0;
+a {
+  color: #a7f3d0;
 }
 
 .image {
   object-fit: cover;
 }
-
-
-
-
-
 
 /* media queres */
 @media (max-width: 780px) {
